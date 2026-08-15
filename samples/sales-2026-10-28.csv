@@ -1,0 +1,11 @@
+order_id,closed_at,channel,server,items,subtotal,tip,total,card_last4,customer_name,customer_phone
+10481,2026-10-28T12:14:07-04:00,counter,Linda,"Beefsteak Burger; Fries",12.50,2.00,14.50,4417,,
+10482,2026-10-28T12:31:44-04:00,counter,Linda,"Veggie Burger; Shake",13.25,2.50,15.75,0090,,
+10483,2026-10-28T13:02:19-04:00,phone,Linda,"Party platter (12 sliders)",96.00,0.00,96.00,2218,Denise Kowalczyk,201-555-0143
+10484,2026-10-28T13:40:55-04:00,counter,Tina,"Burger of the Day; Soda",10.75,0.00,10.75,cash,,
+10485,2026-10-28T17:58:21-04:00,delivery,Tina,"Double Burger x2; Fries x2",34.00,0.00,34.00,6639,,
+10486,2026-10-28T18:20:03-04:00,phone,Linda,"Burger of the Day x4",42.00,0.00,42.00,8802,Marcus Ibarra,201-555-0178
+10487,2026-10-28T19:05:48-04:00,counter,Linda,"Burger; Fries; Soda",14.75,3.00,17.75,7731,,
+10488,2026-10-28T19:47:30-04:00,counter,Tina,"Kids Meal x2",15.00,0.00,15.00,cash,,
+10489,2026-10-28T20:12:12-04:00,phone,Linda,"Party platter (24 sliders)",188.00,0.00,188.00,3350,Priscilla Nwosu,201-555-0166
+10490,2026-10-28T20:55:41-04:00,counter,Linda,"Veggie Burger; Fries",11.75,2.00,13.75,5906,,
