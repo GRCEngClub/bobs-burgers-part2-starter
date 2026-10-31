@@ -1,0 +1,148 @@
+# exported from router web UI (System > Log) by Gene, Fri Oct 30. Router NTP is off; clock was not checked.
+Oct 22 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 22 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 22 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 22 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 22 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 22 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 22 15:46:06 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: associated
+Oct 22 15:46:06 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f
+Oct 22 15:46:07 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f iPhone
+Oct 22 15:54:57 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: associated
+Oct 22 15:54:57 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.52 3a:c7:51:08:de:64
+Oct 22 15:54:58 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.52 3a:c7:51:08:de:64 Genes-MacBook
+Oct 22 18:14:45 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 22 18:14:45 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 22 18:14:46 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 22 18:21:25 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 22 20:36:36 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: disassociated
+Oct 22 20:44:10 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: disassociated
+Oct 22 23:01:10 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 22 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 22 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 23 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 23 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 23 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 23 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 23 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 23 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 23 15:48:22 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: associated
+Oct 23 15:48:22 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f
+Oct 23 15:48:23 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f iPhone
+Oct 23 15:56:23 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: associated
+Oct 23 15:56:23 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.52 3a:c7:51:08:de:64
+Oct 23 15:56:24 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.52 3a:c7:51:08:de:64 Genes-MacBook
+Oct 23 19:20:03 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 23 19:20:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 23 19:20:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 23 19:27:42 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 23 20:22:59 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: disassociated
+Oct 23 20:46:23 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: disassociated
+Oct 23 23:00:49 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 23 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 23 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 24 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 24 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 24 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 24 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 24 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 24 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 24 19:08:38 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 24 19:08:38 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 24 19:08:39 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 24 19:16:17 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 24 22:58:29 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 24 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 24 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 25 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 25 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 25 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 25 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 25 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 25 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 25 18:39:23 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 25 18:39:23 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 25 18:39:24 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 25 18:47:51 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 25 22:58:15 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 25 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 25 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 27 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 27 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 27 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 27 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 27 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 27 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 27 14:11:30 bb-router hostapd: wlan0: STA 66:e0:3b:92:5d:17 IEEE 802.11: associated
+Oct 27 14:11:30 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.58 66:e0:3b:92:5d:17
+Oct 27 14:11:31 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.58 66:e0:3b:92:5d:17 Teddy-Pixel
+Oct 27 15:08:10 bb-router hostapd: wlan0: STA 66:e0:3b:92:5d:17 IEEE 802.11: disassociated
+Oct 27 15:43:53 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: associated
+Oct 27 15:43:53 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f
+Oct 27 15:43:54 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f iPhone
+Oct 27 15:52:42 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: associated
+Oct 27 15:52:42 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.52 3a:c7:51:08:de:64
+Oct 27 15:52:43 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.52 3a:c7:51:08:de:64 Genes-MacBook
+Oct 27 18:32:12 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 27 18:32:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 27 18:32:13 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 27 18:39:11 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 27 20:33:14 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: disassociated
+Oct 27 20:40:07 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: disassociated
+Oct 27 23:00:31 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 27 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 27 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 28 02:16:00 bb-router uhttpd: remote login from 203.0.113.77 user admin: failed
+Oct 28 02:16:09 bb-router uhttpd: remote login from 203.0.113.77 user admin: failed
+Oct 28 02:16:17 bb-router uhttpd: remote login from 203.0.113.77 user admin: failed
+Oct 28 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 28 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 28 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 28 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 28 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 28 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 28 15:46:31 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: associated
+Oct 28 15:46:31 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f
+Oct 28 15:46:32 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f iPhone
+Oct 28 15:55:38 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: associated
+Oct 28 15:55:38 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.52 3a:c7:51:08:de:64
+Oct 28 15:55:39 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.52 3a:c7:51:08:de:64 Genes-MacBook
+Oct 28 19:28:12 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 28 19:28:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 28 19:28:13 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 28 19:34:44 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 28 20:34:17 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: disassociated
+Oct 28 20:45:30 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: disassociated
+Oct 28 22:59:12 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 28 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 28 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 29 06:21:00 bb-router miniupnpd[904]: AddPortMapping: 192.168.1.40:5900 TCP -> 5900 (Remote Desktop)
+Oct 29 10:26:03 bb-router hostapd: wlan0: STA f4:5c:89:2b:61:aa IEEE 802.11: associated
+Oct 29 10:26:03 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa
+Oct 29 10:26:04 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.20 f4:5c:89:2b:61:aa ShoreTab-Counter
+Oct 29 10:37:40 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: associated
+Oct 29 10:37:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c
+Oct 29 10:37:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.50 5e:12:b8:44:a0:9c Lindas-iPhone
+Oct 29 15:48:52 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: associated
+Oct 29 15:48:52 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f
+Oct 29 15:48:53 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.51 92:6a:0d:e1:73:2f iPhone
+Oct 29 15:56:44 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: associated
+Oct 29 15:56:44 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.52 3a:c7:51:08:de:64
+Oct 29 15:56:45 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.52 3a:c7:51:08:de:64 Genes-MacBook
+Oct 29 18:17:40 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 29 18:17:40 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 29 18:17:41 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 29 18:25:14 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 29 20:20:53 bb-router hostapd: wlan0: STA 92:6a:0d:e1:73:2f IEEE 802.11: disassociated
+Oct 29 20:36:15 bb-router hostapd: wlan0: STA 3a:c7:51:08:de:64 IEEE 802.11: disassociated
+Oct 29 20:46:55 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 29 20:46:55 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 29 20:46:56 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 29 20:54:09 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated
+Oct 29 22:58:04 bb-router hostapd: wlan0: STA 5e:12:b8:44:a0:9c IEEE 802.11: disassociated
+Oct 29 23:44:10 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: associated
+Oct 29 23:44:10 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.57 da:3f:91:7c:0e:42
+Oct 29 23:44:11 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.57 da:3f:91:7c:0e:42 Galaxy-S24
+Oct 29 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPREQUEST(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0
+Oct 29 23:51:12 bb-router dnsmasq-dhcp[1121]: DHCPACK(br-lan) 192.168.1.35 b8:27:eb:19:4c:d0 KDS-Display
+Oct 30 00:10:22 bb-router hostapd: wlan0: STA da:3f:91:7c:0e:42 IEEE 802.11: disassociated

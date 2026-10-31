@@ -1,0 +1,45 @@
+{
+  "export_date": "2026-10-30",
+  "device": {
+    "model": "Nighthawk-style dual band router (consumer)",
+    "firmware_version": "1.0.9.34",
+    "firmware_release_date": "2021-03-18",
+    "auto_update": false
+  },
+  "wifi": {
+    "ssid": "BobsBurgers",
+    "security": "WPA2-PSK",
+    "encryption": "AES",
+    "psk_last_changed": "2019-06-02",
+    "wps_enabled": true,
+    "guest_network": { "enabled": false },
+    "client_isolation": false
+  },
+  "admin": {
+    "username": "admin",
+    "password_last_changed": "2019-06-02",
+    "remote_management": { "enabled": true, "port": 8443, "allowed_from": "any" },
+    "https_only": false
+  },
+  "services": {
+    "upnp_enabled": true,
+    "dmz_host": null,
+    "port_forwards": []
+  },
+  "time": {
+    "ntp_enabled": false,
+    "timezone": "America/New_York"
+  },
+  "logging": {
+    "local_buffer_entries": 1024,
+    "remote_syslog": null
+  },
+  "lan": {
+    "subnet": "192.168.1.0/24",
+    "segments": ["lan"],
+    "reservations": [
+      { "name": "ShoreTab card reader (wired)", "ip": "192.168.1.30" },
+      { "name": "Office Mac mini (wired)", "ip": "192.168.1.40" }
+    ]
+  }
+}

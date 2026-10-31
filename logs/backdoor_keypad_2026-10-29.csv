@@ -1,0 +1,28 @@
+time_local,event,method,code_slot
+2026-10-29 06:02:14,Unlocked,Keypad,Code 1
+2026-10-29 06:02:16,Door opened,Sensor,
+2026-10-29 06:02:41,Door closed,Sensor,
+2026-10-29 06:03:11,Locked,Auto-lock,
+2026-10-29 09:12:05,Unlocked,Keypad,Code 1
+2026-10-29 09:12:07,Door opened,Sensor,
+2026-10-29 09:13:02,Door closed,Sensor,
+2026-10-29 09:13:32,Locked,Auto-lock,
+2026-10-29 18:07:40,Unlocked,Keypad,Code 1
+2026-10-29 18:07:42,Door opened,Sensor,
+2026-10-29 18:08:20,Door closed,Sensor,
+2026-10-29 18:08:50,Locked,Auto-lock,
+2026-10-29 20:40:52,Unlocked,Keypad,Code 1
+2026-10-29 20:40:54,Door opened,Sensor,
+2026-10-29 20:41:30,Door closed,Sensor,
+2026-10-29 20:42:00,Locked,Auto-lock,
+2026-10-29 22:51:41,Door opened,Sensor,
+2026-10-29 22:51:58,Door closed,Sensor,
+2026-10-29 22:52:03,Locked,Auto-lock,
+2026-10-29 23:41:07,Unlocked,Keypad,Code 1
+2026-10-29 23:41:09,Door opened,Sensor,
+2026-10-29 23:41:31,Door closed,Sensor,
+2026-10-30 00:03:12,Unlocked,Thumbturn (inside),
+2026-10-30 00:03:14,Door opened,Sensor,
+2026-10-30 00:03:40,Door closed,Sensor,
+2026-10-30 00:03:43,Locked,Auto-lock,
+2026-10-30 05:58:30,Unlocked,Keypad,Code 1
