@@ -6,6 +6,7 @@ timestamp_utc,event,user,device,source_ip,detail,amount,reference
 2026-10-29T21:08:19Z,VOID,pos_admin,Counter tablet,73.189.142.57,void item,-4.25,CHK-10560
 2026-10-29T22:37:50Z,PASSWORD_RESET_REQUEST,pos_admin,iPhone (Safari),73.189.142.57,link sent to shared business email,,
 2026-10-29T22:39:02Z,PASSWORD_CHANGED,pos_admin,iPhone (Safari),73.189.142.57,,,
+2026-10-29T22:58:30Z,LOGIN_FAILED,pos_admin,Windows PC (Chrome),68.196.41.203,"2 attempts, incorrect password",,
 2026-10-30T02:55:12Z,EXPORT_EMAILED,system,-,-,daily export sent to shared business email,,
 2026-10-30T02:44:09Z,SALES_EDIT,pos_admin,Counter tablet,73.189.142.57,3 sales modified after close,,
 2026-10-30T03:50:31Z,SESSION_RESUME,pos_admin,Counter tablet,73.189.142.57,session still open from 10:21 AM (no timeout),,
